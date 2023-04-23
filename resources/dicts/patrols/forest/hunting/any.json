@@ -13,21 +13,21 @@
         "death",
         "huge_prey2"
     ],
-    "intro_text": "r_c encounters a porcupine, bristling with quills.",
-    "decline_text": "The patrol steers clear of the porcupine.",
+    "intro_text": "r_c encounters a centipede, bristling with legs.",
+    "decline_text": "The patrol steers clear of the centipede.",
     "chance_of_success": 10,
     "exp": 10,
     "success_text": [
-        "The patrol examines the porcupine, eventually deciding that they shouldn't risk the potential injury it could cause.",
-        "The porcupine rattles its quills viciously, the patrol heeds its warning and gives it space.",
-        "s_c sets up an ambush, devising a clever plan to take the porcupine by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
-        "s_c has the ingenious idea to follow the porcupine from a distance and collect dropped quills to bring back to camp. The quills could be woven into the Clan's defenses to strengthen them."
+        "The patrol examines the centipede, eventually deciding that they shouldn't risk the potential injury it could cause.",
+        "The centipede rattles its jaw viciously, the patrol heeds its warning and gives it space.",
+        "s_c sets up an ambush, devising a clever plan to take the centipede by surprise and attack it before it can shock anyone.  The Clan will be impressed by this hefty fresh-kill.",
+        "s_c has the ingenious idea to follow the centipede from a distance and collect shed legs to bring back to camp. The legs could be woven into the Clan's defenses to strengthen them."
     ],
     "fail_text": [
-        "r_c leaps back just as the porcupine whips its tail towards them! That was close! The patrol gives the porcupine a wide berth.",
-        "s_c gets closer to the porcupine, intending to impress the rest of the patrol with their bravery. All the cats recoil as a horrible smell comes from the porcupine and they back off before it can charge at them.  The patrol returns to camp, the smelly evidence of their encounter still clinging to s_c's pelt.",
-        "r_c doesn't react quickly enough to the porcupine's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
-        "The porcupine whips around, digging the quills of its tail into r_c! The patrol bolts away and returns to camp, r_c with a nose full of quills."
+        "r_c leaps back just as the centipede whips its jaw towards them! That was close! The patrol gives the centipede a wide berth.",
+        "s_c gets closer to the centipede, intending to impress the rest of the patrol with their bravery. All the slugcats recoil as a horrible smell comes from the centipede and they back off before it can shock them.  The patrol returns to camp, the smelly evidence of their encounter still clinging to s_c's pelt.",
+        "r_c doesn't react quickly enough to the centipedes's warning. It charges sideways at them, its jaw ready to shock! r_c is badly injured and dies a few days later from the wounds.",
+        "The centipede whips around, shocking r_c! The patrol bolts away and returns to camp, r_c with a painful shock."
     ],
     "win_skills": [
         "great hunter",
@@ -51,9 +51,9 @@
     "min_cats": 3,
     "max_cats": 6,
     "history_text": {
-        "scar": "r_c was scarred by a porcupine while on patrol.",
-        "reg_death": "r_c was killed by an angry porcupine while on patrol.",
-        "lead_death": "killed by a porcupine"
+        "scar": "r_c was shocked by a centipede while on patrol.",
+        "reg_death": "r_c was killed by an angry centipede while on patrol.",
+        "lead_death": "killed by a centipede"
     },
     "antagonize_text": null,
     "antagonize_fail_text": null
@@ -71,21 +71,21 @@
         "death",
         "huge_prey2"
     ],
-    "intro_text": "r_c encounters a porcupine, bristling with quills.",
-    "decline_text": "The patrol steers clear of the porcupine, they don't have enough cats to confront this creature safely.",
+    "intro_text": "r_c encounters a centipede, bristling with legs.",
+    "decline_text": "The patrol steers clear of the centipede, they don't have enough slugcats to confront this creature safely.",
     "chance_of_success": 10,
     "exp": 30,
     "success_text": [
-        "The patrol examines the porcupine, eventually deciding that they shouldn't risk the potential injury it could cause.",
-        "The porcupine rattles its quills viciously, the patrol heeds its warning and gives it space.",
-        "s_c sets up an ambush, devising a clever plan to take the porcupine by surprise and attack it before it can whip its quills into anyone's pelt.  The Clan will be impressed by this hefty fresh-kill.",
-        "s_c has the ingenious idea to follow the porcupine from a distance and collect dropped quills to bring back to camp.  The quills could be woven into the Clan's defenses to strengthen them."
+        "The patrol examines the centipede, eventually deciding that they shouldn't risk the potential injury it could cause.",
+        "The centipede rattles its jaw viciously, the patrol heeds its warning and gives it space.",
+        "s_c sets up an ambush, devising a clever plan to take the centipede by surprise and attack it before it can shock anyone.  The Clan will be impressed by this hefty fresh-kill.",
+        "s_c has the ingenious idea to follow the centipede from a distance and collect shed legs to bring back to camp. The legs could be woven into the Clan's defenses to strengthen them."
     ],
     "fail_text": [
-        "r_c leaps back just as the porcupine whips its tail towards them! That was close! They decide to give the porcupine a wide berth.",
+        "r_c leaps back just as the centipede whips its jaw towards them! That was close! The patrol gives the centipede a wide berth.",
         null,
         "r_c doesn't react quickly enough to the porcupine's warning. It charges sideways at them, its quills ready to impale! r_c is badly injured and dies a few days later from the wounds.",
-        "The porcupine whips around, digging the quills of its tail into r_c! r_c returns to camp with a nose full of quills and a wounded pride."
+        "The centipede whips around, shocking r_c! The patrol bolts away and returns to camp, r_c with a painful shock"
     ],
     "win_skills": [
         "fantastic hunter",
@@ -103,9 +103,9 @@
     "antagonize_text": null,
     "antagonize_fail_text": null,
     "history_text": {
-        "scar": "r_c was scarred by a porcupine while on patrol.",
-        "reg_death": "r_c was killed by an angry porcupine while on patrol.",
-        "lead_death": "killed by a porcupine"
+        "scar": "r_c was scarred by a centipede while on patrol.",
+        "reg_death": "r_c was killed by an angry centipede while on patrol.",
+        "lead_death": "killed by a centipede"
     }
 },
 {
@@ -117,14 +117,14 @@
         "large_prey",
         "no_fail_prey"
     ],
-    "intro_text": "While hunting, r_c comes across a rabbit burrow.",
+    "intro_text": "While hunting, r_c comes across a group of squidcada.",
     "success_text": [
-        "r_c catches the rabbit hiding in its burrow."
+        "r_c spears one of the squidcada."
     ],
     "fail_text": [
-        "The burrow is abandoned, with no prey to be found in there."
+        "The squidcada flee, leaving no prey."
     ],
-    "decline_text": "r_c decides to ignore the burrow.",
+    "decline_text": "r_c decides to ignore the squidcada.",
     "chance_of_success": 50,
     "exp": 10,
     "win_skills": [
@@ -145,21 +145,21 @@
         "medium_prey0",
         "large_prey1"
     ],
-    "intro_text": "The patrol approaches a Twoleg nest in the woods while hunting.",
+    "intro_text": "The patrol approaches a scavenger nest in the woods while hunting.",
     "decline_text": "The patrol decides to hunt elsewhere.",
     "chance_of_success": 40,
     "exp": 10,
     "success_text": [
-        "The patrol has a successful hunt, avoiding any Twolegs.",
-        "The patrol finds some astonishingly fat chickens running around the Twoleg nest, and helps themselves to one."
+        "The patrol has a successful hunt, avoiding any scavengers.",
+        "The patrol finds some astonishingly fat batflies flying around the scavenger nest, and helps themselves to one."
     ],
     "fail_text": [
-        "Twoleg kits scare the patrol away."
+        "Scavenger pups scare the patrol away."
     ],
     "min_cats": 1,
     "max_cats": 3,
-    "antagonize_text": "A Twoleg kit approaches the patrol, and they send it away squawking with it's blood on their claws.",
-    "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the cats for fun."
+    "antagonize_text": "A Scavenger pup approaches the patrol, and they send it away squawking with it's blood on their spears.",
+    "antagonize_fail_text": "The Scavenger pups wandering around are unimpressed by the patrol and chase the slugcats for fun."
 },
 {
     "patrol_id": "fst_hunt_twolegplace2",
@@ -170,21 +170,21 @@
         "medium_prey0",
         "large_prey1"
     ],
-    "intro_text": "The patrol approaches a Twoleg nest in the woods while hunting.",
+    "intro_text": "The patrol approaches a Scavenger nest in the woods while hunting.",
     "decline_text": "The patrol decides to hunt elsewhere.",
     "chance_of_success": 10,
     "exp": 10,
     "success_text": [
-        "The patrol cats split up, using sentries to ensure that the Twolegs don't disturb their hunts.",
-        "The patrol finds some astonishingly fat chickens running around the Twoleg nest, and helps themselves to as many as they can carry."
+        "The patrol slugcats split up, using sentries to ensure that the Scavengers don't disturb their hunts.",
+        "The patrol finds some astonishingly fat Batflies flying around the nest, and helps themselves to as many as they can carry."
     ],
     "fail_text": [
-        "Twoleg kits stomp through the woods, scaring away prey and ruining the hunt."
+        "Scavenger pups stomp through the woods, scaring away prey and ruining the hunt."
     ],
     "min_cats": 4,
     "max_cats": 6,
-    "antagonize_text": "Finding a Twoleg kit wandering alone, the cats harass it until it flees squawking, it's blood on their claws.",
-    "antagonize_fail_text": "The Twoleg kits wandering around are unimpressed by the patrol and chase the cats for fun."
+    "antagonize_text": "Finding a Scavenger pup wandering alone, the slugcats harass it until it flees squawking, it's blood on their spears.",
+    "antagonize_fail_text": "The Scavenger pups wandering around are unimpressed by the patrol and chase the slugcats for fun."
 },
 {
     "patrol_id": "fst_hunt_squirrelchase1",
@@ -200,20 +200,20 @@
         "medium_prey1",
         "large_prey2"
     ],
-    "intro_text": "The patrol notices a commotion and finds two squirrels chasing each other across the forest floor.",
+    "intro_text": "The patrol notices a commotion and finds two noodleflies chasing each other across the forest sky.",
     "decline_text": "The patrol decides there's probably easier prey to find elsewhere.",
     "chance_of_success": 50,
     "exp": 10,
     "success_text": [
-        "The squirrels are so distracted that the patrol is able to quickly catch them both.",
-        "The patrol springs onto the squirrels without a second thought, easily dispatching them.",
-        "s_c is quick on the jump! Though the squirrels notice the cats and begin scampering away, s_c easily cuts them off and kills both squirrels."
+        "The noodleflies are so distracted that the patrol is able to quickly catch them both.",
+        "The patrol throws spears at the noodleflies without a second thought, easily dispatching them.",
+        "s_c is quick on the jump! Though the noodleflies notice the slugcats and begin flying away, s_c easily cuts them off and kills both."
     ],
     "fail_text": [
-        "The squirrels are far too excited and quick - they slip right out from between the patrol's claws.",
-        "s_c runs at the squirrels before anyone else can pounce, laughing at the prey's antics and playfully jumping into the middle of their game.  The squirrels scatter away at the disturbance and disappear into the canopy.",
+        "The noodleflies are far too excited and quick - they slip right out from between the patrol's spears.",
+        "s_c runs at the noodleflies before anyone else can throw a spear, laughing at the prey's antics and playfully jumping into the middle of their game.  The noodleflies fly away at the disturbance and disappear into the canopy.",
         null,
-        "r_c tries to climb up after them but slips and falls, twisting their paw."
+        "r_c tries to spear them, but misses, altering a mother noodlefly, who attempts to spear the slugcat, twisting their paw."
     ],
     "win_skills": [
         "good hunter",
@@ -228,7 +228,7 @@
     "min_cats": 1,
     "max_cats": 6,
     "history_text": {
-        "scar": "r_c gained a scar after trying to chase some squirrels up a tree."
+        "scar": "r_c gained a scar after trying to chase some noodleflies, and being attacked by mom."
     },
     "antagonize_text": null,
     "antagonize_fail_text": null
@@ -250,14 +250,14 @@
     "chance_of_success": 60,
     "exp": 10,
     "success_text": [
-        "The patrol flushes a gopher out of the burrow! More fresh-kill!",
-        "Inside the burrow is a rabbit, curled up and alone. Perhaps a buck recently kicked from his birth warren? Whatever the case, this rabbit will feed the Clan now."
+        "The patrol flushes a snail out of the burrow! More fresh-kill!",
+        "Inside the burrow is a yeek, Whatever the case, this rabbit will feed the Clan now."
     ],
     "fail_text": [
         "The burrow turns out to be empty, the smell nothing but stale air and a slight tang of sickness. Whatever used to live here is gone now.  Checking the burrow was a waste of time.",
-        "s_c sticks their nose into the hole only to come face to face with a skunk! The whole patrol is sprayed!",
+        "s_c sticks their nose into the hole only to come face to face with a centipede! The whole patrol is shocked, but weakly",
         null,
-        "Oh no! The burrow was home to a wolverine, now angry at the disturbance. The patrol bolts away to escape its wrath, but r_c doesn't quite move fast enough and is caught in its claws until another cat turns back to help."
+        "Oh no! The burrow was home to a dropwig, now angry at the disturbance. The patrol bolts away to escape its wrath, but r_c doesn't quite move fast enough and is caught in its jaws until another cat turns back to help."
     ],
     "fail_trait": [
         "bold",
@@ -270,7 +270,7 @@
     "antagonize_text": null,
     "antagonize_fail_text": null,
     "history_text": {
-        "scar": "r_c was scarred after an unfortunate encounter with a wolverine."
+        "scar": "r_c was scarred after an unfortunate encounter with a dropwig."
     }
 },
 {
@@ -288,13 +288,13 @@
     "chance_of_success": 40,
     "exp": 10,
     "success_text": [
-        "r_c flushes a gopher out of the burrow! More fresh-kill!",
-        "Inside the burrow is a rabbit, curled up and alone. Perhaps a buck recently kicked from his birth warren? Whatever the case, this rabbit will feed the Clan now."
+        "r_c flushes a snail out of the burrow! More fresh-kill!",
+        "Inside the burrow is a Yeek, Whatever the case, this rabbit will feed the Clan now."
     ],
     "fail_text": [
         "The burrow turns out to be empty, the smell nothing but stale air and a slight tang of sickness. Whatever used to live here is gone now.  Checking the burrow was a waste of time.",
-        "s_c sticks their nose into the hole only to come face to face with a skunk! The whole patrol is sprayed!",
-        "Oh no! The burrow was home to a wolverine, now angry at the disturbance. r_c bolts away to escape its wrath, but doesn't quite move fast enough and is caught in its claws.  With no other cats around to help, r_c is quickly killed by the predator."
+        "s_c sticks their nose into the hole only to come face to face with a centipede! The whole patrol is shocked, though alive",
+        "Oh no! The burrow was home to an adult noodlefly, now angry at the disturbance. r_c bolts away to escape its wrath, but doesn't quite move fast enough and is caught in its proboscis.  With no other cats around to help, r_c is quickly killed by the predator."
     ],
     "fail_trait": [
         "bold",
@@ -307,8 +307,8 @@
     "antagonize_text": null,
     "antagonize_fail_text": null,
     "history_text": {
-        "reg_death": "r_c was killed after an unfortunate experience with a wolverine.",
-        "lead_death": "killed by a wolverine"
+        "reg_death": "r_c was killed after an unfortunate experience with a noodlefly.",
+        "lead_death": "killed by a noodlefly"
     }
 },
 {
@@ -327,21 +327,21 @@
         "large_prey2",
         "large_prey3"
     ],
-    "intro_text": "The patrol hears distant howling and wonders whether to investigate the noise.",
+    "intro_text": "The patrol hears distant hissing and wonders whether to investigate the noise.",
     "decline_text": "The patrol decides not to investigate the source of the noise.  Whatever is making it will not be friendly to them.",
     "chance_of_success": 10,
     "exp": 30,
     "success_text": [
-        "The patrol tracks the noise and discovers a coyote scavenging off a carcass. This is a predator they cannot fight, the patrol decides to return to camp and report the intruder to the leader. Perhaps they can return later to take what the coyote leaves behind.",
-        "The patrol tracks the noise and finds a mostly stripped carcass covered in the scent of coyote. They quickly scavenge what little is left and leave before the predator can return.",
-        "The patrol follows the noise to a coyote who quickly spots them in the brush. A fight ensues and thanks to the skills of s_c, the coyote eventually runs away, deeming the carcass they had been scavenging from to not be worth the hassle.  Your patrol brings back what meat had still been left.",
-        "The noise leads them to a coyote, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the canine, until it leaves. Eventually the coyote eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones."
+        "The patrol tracks the noise and discovers a caramel lizard scavenging off a carcass. This is a predator they cannot fight, the patrol decides to return to camp and report the intruder to the leader. Perhaps they can return later to take what the lizard leaves behind.",
+        "The patrol tracks the noise and finds a mostly stripped carcass covered in the scent of lizard. They quickly scavenge what little is left and leave before the predator can return.",
+        "The patrol follows the noise to a caramel who quickly spots them in the brush. A fight ensues and thanks to the skills of s_c, the lizard eventually runs away, deeming the carcass they had been scavenging from to not be worth the hassle.  Your patrol brings back what meat had still been left.",
+        "The noise leads them to a caramel lizard, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the reptile, until it leaves. Eventually the lizard eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones."
     ],
     "fail_text": [
-        "The noise leads them to a coyote that's busy stripping the last of the meat from a carcass. The patrol waits till the coyote leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
-        "They track the noise to a coyote. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a coyote is about.",
-        "The patrol finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cats, proves to be fiercely protective of its meal.  The patrol doesn't move fast enough and r_c is killed before they can run.",
-        "The sound leads them to a coyote, scavenging from a carcass. The coyote notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate."
+        "The noise leads them to a caramel lizard that's busy stripping the last of the meat from a carcass. The patrol waits till the lizard leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
+        "They track the noise to a caramel lizard. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a lizard is about.",
+        "The patrol finds a caramel lizard at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the slugcats, proves to be fiercely protective of its meal.  The patrol doesn't move fast enough and r_c is killed before they can run.",
+        "The sound leads them to a caramel lizard, scavenging from a carcass. The lizard notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and spears it."
     ],
     "win_skills": [
         "excellent fighter"
@@ -364,9 +364,9 @@
     "antagonize_text": null,
     "antagonize_fail_text": null,
     "history_text": {
-        "scar": "r_c was scarred by a coyote protecting its scavenged meal.",
-        "reg_death": "r_c was killed by a coyote protecting its scavenged meal.",
-        "lead_death": "killed by a coyote"
+        "scar": "r_c was scarred by a caramel lizard protecting its scavenged meal.",
+        "reg_death": "r_c was killed by a caramel lizard protecting its scavenged meal.",
+        "lead_death": "killed by a caramel lizard"
     }
 },
 {
@@ -385,21 +385,21 @@
         "large_prey2",
         "large_prey3"
     ],
-    "intro_text": "The patrol hears distant howling and wonders whether to investigate the noise.",
+    "intro_text": "The patrol hears distant hissing and wonders whether to investigate the noise.",
     "decline_text": "The patrol decides not to investigate the source of the noise. Whatever is making it will not be friendly to them.",
     "chance_of_success": 30,
     "exp": 30,
     "success_text": [
-        "The patrol tracks the noise and discovers a coyote scavenging off a carcass. This is a predator they cannot fight, the patrol decides to return to camp and report the intruder to the leader. Perhaps they can return later to take what the coyote leaves behind.",
-        "The patrol tracks the noise and finds a mostly stripped carcass covered in the scent of coyote. They quickly scavenge what little is left and leave before the predator can return.",
-        "The noise leads them to a coyote, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the canine, until it leaves. Eventually the coyote eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones.",
-        "The noise leads them to a coyote, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the canine, until it leaves. Eventually the coyote eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones."
+        "The patrol tracks the noise and discovers a Blue lizard scavenging off a carcass. This is a predator they cannot fight, the patrol decides to return to camp and report the intruder to the leader. Perhaps they can return later to take what the coyote leaves behind.",
+        "The patrol tracks the noise and finds a mostly stripped carcass covered in the scent of lizard. They quickly scavenge what little is left and leave before the predator can return.",
+        "The noise leads them to a blue lizard, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the reptile, until it leaves. Eventually the lizard eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones.",
+        "The noise leads them to a blue lizard, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the reptile, until it leaves. Eventually the lizard eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones."
     ],
     "fail_text": [
-        "The noise leads them to a coyote that's busy stripping the last of the meat from a carcass. The patrol waits till the coyote leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
-        "They track the noise to a coyote. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a coyote is about.",
-        "The patrol finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cats, proves to be fiercely protective of its meal.  The patrol doesn't move fast enough and r_c is killed before they can run.",
-        "The sound leads them to a coyote, scavenging from a carcass. The coyote notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate."
+        "The noise leads them to a blue lizard that's busy stripping the last of the meat from a carcass. The patrol waits till the lizard leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
+        "They track the noise to a blue lizard. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a lizard is about.",
+        "The patrol finds a blue lizard at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the slugcats, proves to be fiercely protective of its meal.  The patrol doesn't move fast enough and r_c is killed before they can run.",
+        "The sound leads them to a blue lizard, scavenging from a carcass. The lizard notices them before they can hide and lunges, making it clear that this food has been claimed.  r_c is momentarily caught in its jaws before the patrol retaliates and hits it with a spear."
     ],
     "win_skills": [
         "very smart",
@@ -423,9 +423,9 @@
     "antagonize_text": null,
     "antagonize_fail_text": null,
     "history_text": {
-        "scar": "r_c was scarred by a coyote protecting its scavenged meal.",
-        "reg_death": "r_c was killed by a coyote protecting its scavenged meal.",
-        "lead_death": "killed by a coyote"
+        "scar": "r_c was scarred by a blue lizard protecting its scavenged meal.",
+        "reg_death": "r_c was killed by a blue lizard protecting its scavenged meal.",
+        "lead_death": "killed by a blue lizard"
     }
 },
 {
@@ -441,20 +441,20 @@
         "large_prey2",
         "large_prey3"
     ],
-    "intro_text": "r_c hears distant howling and wonders whether to investigate the noise.",
-    "decline_text": "r_c decides not to investigate the source of the noise. Whatever is making it will not be friendly to them and they are only one cat.",
+    "intro_text": "r_c hears distant hissing and wonders whether to investigate the noise.",
+    "decline_text": "r_c decides not to investigate the source of the noise. Whatever is making it will not be friendly to them and they are only one slugcat.",
     "chance_of_success": 10,
     "exp": 30,
     "success_text": [
-        "r_c tracks the noise and discovers a coyote scavenging off a carcass. This is a predator they cannot fight, they decide to return to camp and report the intruder to the leader, perhaps a patrol can return later to take what the coyote leaves behind.",
-        "r_c tracks the noise and finds a mostly stripped carcass covered in the scent of coyote. They quickly scavenge what little is left and leave before the predator can return.",
-        "The noise leads them to a coyote, scavenging from a carcass. s_c decides to wait in the brush, downwind from the canine, until it leaves. Eventually the coyote eats its fill and disappears into the forest. s_c waits a while longer, ensuring the coyote has truly left, and takes their turn stripping the leftover meat from the bones.",
-        "The noise leads them to a coyote, scavenging from a carcass. s_c decides to wait in the brush, downwind from the canine, until it leaves. Eventually the coyote eats its fill and disappears into the forest. s_c waits a while longer, ensuring the coyote has truly left, and takes their turn stripping the leftover meat from the bones."
+        "r_c tracks the noise and discovers a cyan lizard scavenging off a carcass. This is a predator they cannot fight, they decide to return to camp and report the intruder to the leader, perhaps a patrol can return later to take what the lizard leaves behind.",
+        "r_c tracks the noise and finds a mostly stripped carcass covered in the scent of lizard. They quickly scavenge what little is left and leave before the predator can return.",
+        "The noise leads them to a cyan lizard, scavenging from a carcass. s_c decides to wait in the brush, downwind from the lizard, until it leaves. Eventually the lizard eats its fill and disappears into the forest. s_c waits a while longer, ensuring the lizard has truly left, and takes their turn stripping the leftover meat from the bones.",
+        "The noise leads them to a cyan lizard, scavenging from a carcass. s_c decides to wait in the brush, downwind from the canine, until it leaves. Eventually the coyote eats its fill and disappears into the forest. s_c waits a while longer, ensuring the lizard has truly left, and takes their turn stripping the leftover meat from the bones."
     ],
     "fail_text": [
-        "The noise leads them to a coyote that's busy stripping the last of the meat from a carcass. They wait till the coyote leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
-        "They track the noise to a coyote. s_c whimpers in terror at the sight of the beast and dashes away, running straight back to camp...",
-        "r_c finds a coyote at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the cat, proves to be fiercely protective of its meal.  They doesn't move fast enough and with no Clanmates to save them, r_c is quickly killed."
+        "The noise leads them to a cyan lizard that's busy stripping the last of the meat from a carcass. They wait till the lizard leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
+        "They track the noise to a cyan lizard. s_c whimpers in terror at the sight of the beast and dashes away, running straight back to camp...",
+        "r_c finds a cyan lizard at the source of the noise. It seems to be scavenging from an old carcass and upon seeing the slugcat, proves to be fiercely protective of its meal.  They doesn't move fast enough and with no Clanmates to save them, r_c is quickly killed."
     ],
     "win_skills": [
         "very smart",
@@ -478,8 +478,8 @@
     "antagonize_text": null,
     "antagonize_fail_text": null,
     "history_text": {
-        "reg_death": "r_c was killed by a coyote protecting its scavenged meal.",
-        "lead_death": "killed by a coyote"
+        "reg_death": "r_c was killed by a cyan lizard protecting its scavenged meal.",
+        "lead_death": "killed by a cyan lizard"
     }
 },
 {
@@ -498,21 +498,21 @@
         "large_prey2",
         "large_prey3"
     ],
-    "intro_text": "The patrol hears distant howling and wonders whether to investigate the noise.",
+    "intro_text": "The patrol hears distant hissing and wonders whether to investigate the noise.",
     "decline_text": "The patrol decides not to investigate the source of the noise.  Whatever is making it will not be friendly to them.",
     "chance_of_success": 10,
     "exp": 30,
     "success_text": [
-        "The patrol tracks the noise and discovers a wolf eating from its kill. This is a predator they cannot fight and more wolves may be nearby, the patrol decides to return to camp and report the intruder to the leader. Perhaps they can return later to take what fresh-kill is left behind.",
-        "The patrol tracks the noise and finds a mostly stripped carcass covered in the scent of wolves. They quickly scavenge what little is left and leave before the predators can return.",
-        "The noise leads them to a wolf, eating from its kill. s_c instructs them to wait in the brush, downwind from the canine, until it leaves. Eventually the wolf eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones.",
-        "The noise leads them to a wolf, eating from its kill. s_c instructs them to wait in the brush, downwind from the canine, until it leaves. Eventually the wolf eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones."
+        "The patrol tracks the noise and discovers a yellow lizard eating from its kill. This is a predator they cannot fight and more lizards may be nearby, the patrol decides to return to camp and report the intruder to the leader. Perhaps they can return later to take what fresh-kill is left behind.",
+        "The patrol tracks the noise and finds a mostly stripped carcass covered in the scent of lizards. They quickly scavenge what little is left and leave before the predators can return.",
+        "The noise leads them to a red lizard, eating from its kill. s_c instructs them to wait in the brush, downwind from the lizard, until it leaves. Eventually the lizard eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones.",
+        "The noise leads them to a yellow lizard, eating from its kill. s_c instructs them to wait in the brush, downwind from the lizard, until it leaves. Eventually the lizard eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones."
     ],
     "fail_text": [
-        "The noise leads them to a wolf that's busy stripping the last of the meat from a carcass. The patrol waits till the wolf leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
-        "They track the noise to a wolf. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away. The patrol follows anxiously, not wanting to lose sight of their Clanmate while a wolf is about.",
-        "The patrol finds a wolf pack at the source of the noise. The wolves are tearing into a dead deer and upon seeing the cats, proves to be fiercely protective of their meal. The patrol doesn't move fast enough and r_c is killed before they can run.",
-        "The sound leads them to a wolf, scavenging from a carcass. The wolf notices them before they can hide and lunges, making it clear that this food has been claimed. r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate."
+        "The noise leads them to a red lizard that's busy stripping the last of the meat from a carcass. The patrol waits till the lizard leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
+        "They track the noise to a red lizard. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away. The patrol follows anxiously, not wanting to lose sight of their Clanmate while a lizard is about.",
+        "The patrol finds a yellow lizard pack at the source of the noise. The lizards are tearing into a dead vulture and upon seeing the slugcats, proves to be fiercely protective of their meal. The patrol doesn't move fast enough and r_c is killed before they can run.",
+        "The sound leads them to a yellow lizard, scavenging from a carcass. The lizard notices them before they can hide and lunges, making it clear that this food has been claimed. r_c is momentarily caught in its jaws before the patrol retaliates and drives it off their Clanmate."
     ],
     "win_skills": [
         "very smart",
@@ -536,9 +536,9 @@
     "antagonize_text": null,
     "antagonize_fail_text": null,
     "history_text": {
-        "scar": "r_c was scarred by a wolf protecting its scavenged meal.",
-        "reg_death": "r_c was killed by a wolf pack protecting its meal.",
-        "lead_death": "killed by a wolf pack"
+        "scar": "r_c was scarred by a lizard protecting its scavenged meal.",
+        "reg_death": "r_c was killed by a yellow lizard pack protecting its meal.",
+        "lead_death": "killed by a yellow lizard pack"
     }
 },
 {
@@ -554,20 +554,20 @@
         "large_prey2",
         "large_prey3"
     ],
-    "intro_text": "The patrol hears distant howling and wonders whether to investigate the noise.",
+    "intro_text": "The patrol hears distant hissing and wonders whether to investigate the noise.",
     "decline_text": "The patrol decides not to investigate the source of the noise. Whatever is making it will not be friendly to them.",
     "chance_of_success": 20,
     "exp": 30,
     "success_text": [
-        "The patrol tracks the noise and discovers a wolf eating from its kill. This is a predator they cannot fight and more wolves may be nearby, the patrol decides to return to camp and report the intruder to the leader. Perhaps they can return later to take what little fresh-kill is left behind.",
-        "The patrol tracks the noise and finds a mostly stripped carcass covered in the scent of wolves. They quickly scavenge what little is left and leave before the predators can return.",
-        "The noise leads them to a wolf, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the canine, until it leaves. Eventually the wolf eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones.",
-        "The noise leads them to a wolf, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the canine, until it leaves. Eventually the wolf eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones."
+        "The patrol tracks the noise and discovers a yellow lizard eating from its kill. This is a predator they cannot fight and more may be nearby, the patrol decides to return to camp and report the intruder to the leader. Perhaps they can return later to take what little fresh-kill is left behind.",
+        "The patrol tracks the noise and finds a mostly stripped carcass covered in the scent of lizards. They quickly scavenge what little is left and leave before the predators can return.",
+        "The noise leads them to a red lizard, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the reptile, until it leaves. Eventually the lizard eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones.",
+        "The noise leads them to a yellow lizard, scavenging from a carcass. s_c instructs them to wait in the brush, downwind from the reptile, until it leaves. Eventually the lizard eats its fill and disappears into the forest. When s_c deems it safe, the patrol takes their turn stripping the leftover meat from the bones."
     ],
     "fail_text": [
-        "The noise leads them to a wolf that's busy stripping the last of the meat from a carcass. The patrol waits till the wolf leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
-        "They track the noise to a wolf. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a wolf is about.",
-        "The patrol finds a wolf pack at the source of the noise. The wolves are busy eating from the carcass of a deer, and upon seeing the cats, prove to be fiercely protective of their meal.  The patrol doesn't move fast enough and r_c is killed before they can run."
+        "The noise leads them to a yellow lizard that's busy stripping the last of the meat from a carcass. The patrol waits till the lizard leaves, hoping to pick up any leftovers, but unfortunately the bones have been thoroughly cleaned.",
+        "They track the noise to a red lizard. Before the patrol can investigate further, s_c whimpers in terror at the sight of the beast and dashes away.  The patrol follows anxiously, not wanting to lose sight of their Clanmate while a lizard is about.",
+        "The patrol finds a yellow lizard pack at the source of the noise. The lizards are busy eating from the carcass of a deer, and upon seeing the slugcats, prove to be fiercely protective of their meal.  The patrol doesn't move fast enough and r_c is killed before they can run."
     ],
     "win_skills": [
         "very smart",
@@ -591,8 +591,8 @@
     "antagonize_text": null,
     "antagonize_fail_text": null,
     "history_text": {
-        "reg_death": "r_c was killed by a wolf protecting its meal.",
-        "lead_death": "killed by a wolf"
+        "reg_death": "r_c was killed by a lizard protecting its meal.",
+        "lead_death": "killed by a lizard"
     }
 },
 {
@@ -608,12 +608,12 @@
         "large_prey2",
         "large_prey3"
     ],
-    "intro_text": "r_c hears distant howling and wonders whether to investigate the noise.",
+    "intro_text": "r_c hears distant hissing and wonders whether to investigate the noise.",
     "decline_text": "r_c decides not to investigate the source of the noise.  Whatever is making it will not be friendly to them and they are only one cat.",
     "chance_of_success": 10,
     "exp": 40,
     "success_text": [
-        "r_c tracks the noise and discovers a wolf eating from its kill. This is a predator they cannot fight, they decide to return to camp and report the intruder to the leader, perhaps a patrol can return later to take what the wolf leaves behind.",
+        "r_c tracks the noise and discovers a pink lizard eating from its kill. This is a predator they cannot fight, they decide to return to camp and report the intruder to the leader, perhaps a patrol can return later to take what the lizard leaves behind.",
         "r_c tracks the noise and finds a mostly stripped carcass covered in the scent of wolf. They quickly scavenge what little is left and leave before the predator can return.",
         "The noise leads them to a wolf, tearing into the carcass of a deer. s_c decides to wait in the brush, downwind from the canine, until it leaves. Eventually the wolf eats its fill and disappears into the forest. s_c waits a while longer, ensuring the wolf has truly left, and takes their turn stripping the leftover meat from the bones.",
         "The noise leads them to a wolf, tearing into the carcass of a deer. s_c decides to wait in the brush, downwind from the canine, until it leaves. Eventually the wolf eats its fill and disappears into the forest. s_c waits a while longer, ensuring the wolf has truly left, and takes their turn stripping the leftover meat from the bones."

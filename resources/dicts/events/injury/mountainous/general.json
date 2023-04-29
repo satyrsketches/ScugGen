@@ -9,10 +9,10 @@
             "scar",
             "TWO"
         ],
-        "event_text": "m_c was grabbed and dropped by an eagle, but they somehow survived.",
+        "event_text": "m_c was grabbed and dropped by an vulture, but they somehow survived.",
         "history_text": {
-            "scar": "m_c was scarred when an eagle grabbed them.",
-            "reg_death": "m_c died from their wounds after an eagle grabbed them."
+            "scar": "m_c was scarred when an vulture grabbed them.",
+            "reg_death": "m_c died from their wounds after a vulture grabbed them."
         },
         "cat_trait": null,
         "cat_skill": null,
@@ -64,7 +64,7 @@
             "Leaf-fall",
             "Leaf-bare"
         ],
-        "event_text": "m_c was climbing a tree when they fell. Luckily, they were only bruised by the incident.",
+        "event_text": "m_c was climbing a pole when they fell. Luckily, they were only bruised by the incident.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,
@@ -96,10 +96,10 @@
             "scar",
             "ONE"
         ],
-        "event_text": "m_c survived a vicious eagle attack - with the claw marks to prove it!",
+        "event_text": "m_c survived a vicious vulture attack - with the claw marks to prove it!",
         "history_text": {
-            "scar": "m_c was scarred by an eagle.",
-            "reg_death": "m_c died from their wounds after fighting an eagle."
+            "scar": "m_c was scarred by an vulture.",
+            "reg_death": "m_c died from their wounds after fighting an vulture."
         },
         "cat_trait": null,
         "cat_skill": null,
@@ -115,7 +115,7 @@
             "Leaf-fall",
             "Leaf-bare"
         ],
-        "event_text": "m_c was climbing a tree and got a splinter from one of the branches.",
+        "event_text": "m_c was climbing a pole and got a nail in there paw from one of the lose nails.",
         "cat_trait": null,
         "cat_skill": null,
         "other_cat_trait": null,

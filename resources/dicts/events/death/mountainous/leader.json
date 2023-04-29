@@ -14,9 +14,9 @@
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "death_text": "m_c was grabbed and dropped by an eagle, losing a life.",
+        "death_text": "m_c was grabbed and dropped by an vulture, losing a life.",
         "history_text": {
-            "lead_death": "were grabbed by an eagle"
+            "lead_death": "were grabbed by an vulture"
         },
         "cat_trait": null,
         "cat_skill": null,
@@ -50,9 +50,9 @@
     {
         "camp": "any",
         "tags": ["other_cat", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare", "rc_to_mc", "neg_dislike", "platonic", "respect", "trust", "secure"],
-        "death_text": "m_c lost a life defending r_c from a hawk.",
+        "death_text": "m_c lost a life defending r_c from a vulture.",
         "history_text": {
-            "lead_death": "defended r_c from a hawk"
+            "lead_death": "defended r_c from a vulture"
         },
         "cat_trait": ["altruistic", "bold", "bloodthirsty", "ambitious", "daring", "confident", "fierce", "loyal", "loving", "empathetic", "responsible", "righteous", "vengeful"],
         "cat_skill": null,
@@ -63,9 +63,9 @@
     {
         "camp": "any",
         "tags": ["other_cat", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare", "rc_to_mc", "neg_dislike", "platonic", "respect", "trust", "secure"],
-        "death_text": "m_c lost a life defending r_c from an eagle.",
+        "death_text": "m_c lost a life defending r_c from a king vulture.",
         "history_text": {
-            "lead_death": "defended r_c from an eagle"
+            "lead_death": "defended r_c from a king vulture"
         },
         "cat_trait": ["altruistic", "bold", "bloodthirsty", "ambitious", "daring", "confident", "fierce", "loyal", "loving", "empathetic", "responsible", "righteous", "vengeful"],
         "cat_skill": null,
@@ -76,9 +76,9 @@
     {
         "camp": "any",
         "tags": ["all_lives", "Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare", "no_body"],
-        "death_text": "m_c was carried off by an eagle, never to be seen again.",
+        "death_text": "m_c was carried off by a king vulture, never to be seen again.",
         "history_text": {
-            "lead_death": "were carried away by an eagle"
+            "lead_death": "were carried away by a king vulture"
         },
         "cat_trait": null,
         "cat_skill": null,

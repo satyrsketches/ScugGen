@@ -7,14 +7,14 @@
             "hunting",
             "small_prey"
         ],
-        "intro_text": "Your patrol comes across a shrew.",
+        "intro_text": "Your patrol comes across a batfly.",
         "success_text": [
-            "r_c drops into a crouch and stalks towards the shrew. They pounce on it, swiftly killing it with a bite to the back of the head.",
-            "r_c drops into a crouch and silently treads towards the shrew. At the last second, the shrew looks up, but r_c is quick to pounce and cut off its escape.",
-            "s_c drops into a perfect hunting crouch and stalks the oblivious shrew until they're in striking distance. The shrew almost slips away, but s_c catches it with one paw and flings it towards their mouth for the killing bite."
+            "r_c drops into a crouch and stalks towards the batfly. They pounce on it, swiftly killing it with a bite to the back of the head.",
+            "r_c drops into a crouch and silently treads towards the batfly. At the last second, the shrew looks up, but r_c is quick to pounce and cut off its escape.",
+            "s_c drops into a perfect hunting crouch and stalks the oblivious shrew until they're in striking distance. The batfly almost slips away, but s_c catches it with one paw and flings it towards their mouth for the killing bite."
         ],
         "fail_text": [
-            "Your patrol narrowly misses the shrew."
+            "Your patrol narrowly misses the batfly."
         ],
         "decline_text": "Your patrol decides to look for other prey.",
         "chance_of_success": 50,
@@ -45,8 +45,8 @@
         "success_text": [
             "They can't think of anything that would work, but their hunt goes well regardless.",
             "A snowy patch will do! The plan works and their hunt goes well.",
-            "s_c leads them to some moose dung on the slopes - it's not clean, but it's extremely effective, and the patrol hunts well.",
-            "s_c tells the patrol to roll in a patch of garlic to disguise their scent, which works perfectly. It's a funny taste to wash off their pelts though."
+            "s_c leads them to some grass on the slopes - it's not too alive, but it's extremely effective, and the patrol hunts well.",
+            "s_c tells the patrol to roll in a patch of grass to disguise their scent, which works perfectly. It's a funny taste to wash off their pelts though."
         ],
         "fail_text": [
             "The patrol finds nothing to disguise their scent, and no prey either.",
@@ -81,12 +81,12 @@
         "success_text": [
             "They can't think of anything that would work, but their hunt goes well regardless.",
             null,
-            "s_c finds some moose dung on the slopes - it's not clean, but it's extremely effective, and the hunt goes well.",
-            "s_c rolls in a patch of garlic to disguise their scent, which works perfectly. It's a funny taste to wash off their pelt though."
+            "s_c finds some batfruit that had fallen down on the slopes - its good enough for the cats and they take it back to the shelter.",
+            "s_c rolls in some mushy batfruit to disguise their scent, which works perfectly. It's a funny taste to wash off their pelt though."
         ],
         "fail_text": [
-            "The patrol finds nothing to disguise their scent, and no prey either.",
-            "r_c finds no prey; it seems like all the prey was scared off because of their stench!"
+            "The patrol finds nothing to disguise their scent, and nothing to bring back to the shelter either.",
+            "r_c finds nothing to bring back; it seems like all the batfiles and other prey was scared off because of their stench!"
         ],
         "win_skills": [
             "very smart",

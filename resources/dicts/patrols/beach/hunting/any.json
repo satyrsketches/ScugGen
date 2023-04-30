@@ -183,7 +183,7 @@
             "large_prey",
 			"no_fail_prey"
         ],
-        "intro_text": "r_c heads out along the shoreline alone, wanting to sink {PRONOUN/r_c/poss} teeth into some prey and have some time to {PRONOUN/r_c/self}.",
+        "intro_text": "r_c heads out along the shoreline alone, wanting to stab {PRONOUN/r_c/poss} spear into some prey and have some time to {PRONOUN/r_c/self}.",
         "decline_text": "r_c turns back to camp, deciding that a group hunt would be more effective.",
         "chance_of_success": 40,
         "exp": 20,
@@ -428,8 +428,8 @@
         "fail_text": [
             null,
             "A little carelessly, s_c jumps a stake to hunt in a toll. But there's a new thing there, a beehive, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
-            "Carelessly, app1 is seen by Twolegs, and taken from c_n.",
-            "Carelessly, app1 is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, {PRONOUN/app1/subject} {VERB/app1/discover/discovers} that a broken window is just wide enough to push {PRONOUN/app1/self} out to safety through, but the glass leaves {PRONOUN/app1/object} bleeding as {PRONOUN/app1/subject} {VERB/app1/run/runs} back to c_n."
+            "Carelessly, app1 is seen by scavengers, and taken from c_n.",
+            "Carelessly, app1 is seen by scavengers, and is taken hissing and spitting to be locked in a spear cage. Overnight, {PRONOUN/app1/subject} {VERB/app1/discover/discovers} that a broken window is just wide enough to push {PRONOUN/app1/self} out to safety through, but the glass leaves {PRONOUN/app1/object} bleeding as {PRONOUN/app1/subject} {VERB/app1/run/runs} back to c_n."
         ],
         "win_trait": ["calm", "careful", "insecure", "lonesome", "loyal", "nervous", "sneaky", "strange"],
         "fail_trait": ["altruistic", "compassionate", "empathetic", "faithful", "loving", "patient", "responsible", "thoughtful", "wise"],
@@ -448,18 +448,18 @@
             "no_app",
             "large_prey0"
         ],
-        "intro_text": "Boldly, eyes daring p_l to say no, r_c suggests hunting by the Twoleg dens.",
+        "intro_text": "Boldly, eyes daring p_l to say no, r_c suggests hunting by the scavenger toll.",
         "decline_text": "On second thought, they decide to reline their nests today instead.",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": [
-            "They're interrupted by Twolegs wandering through the woods a couple times, but it's a successful hunt.",
-            "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for r_c. {PRONOUN/r_c/subject/CAP} {VERB/r_c/fetch/fetches} p_l, and both cats investigate the food, loudly proclaiming how much better fresh-kill is, but both a little thrilled by the experience.",
-            "s_c shows the other cat all around the outskirts of the Twoleg dens, showing off how much {PRONOUN/s_c/subject} {VERB/s_c/know/knows} about the strange animals and their weird behavior, and enjoying getting to feel clever.",
+            "They're interrupted by scavengers wandering through the water a couple times, but it's a successful hunt.",
+            "A friendly scavenger makes a circles their arm, and drops a spear on the ground for r_c. {PRONOUN/r_c/subject/CAP} {VERB/r_c/fetch/fetches} p_l, and both cats investigate the spear, loudly proclaiming how much better their own spears are, but both a little thrilled by the experience.",
+            "s_c shows the other slugcat all around the outskirts of the scavenger toll, showing off how much {PRONOUN/s_c/subject} {VERB/s_c/know/knows} about the strange creatures and their weird behavior, and enjoying getting to feel clever.",
             "It's a strange adventure, odd and weird and a little thrilling. s_c takes the lead, but both s_c and r_c are wide-eyed and a little scared, in a fun way."
         ],
         "fail_text": [
-            "Carelessly, r_c is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, {PRONOUN/r_c/subject} {VERB/r_c/hear/hears} p_l yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, r_c presses {PRONOUN/r_c/poss} pelt against p_l on the way back to c_n.",
+            "Carelessly, r_c is seen by scavengers, and is taken hissing and spitting to be locked in a spear cagew. Overnight, {PRONOUN/r_c/subject} {VERB/r_c/hear/hears} p_l yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, r_c presses {PRONOUN/r_c/poss} pelt against p_l on the way back to c_n.",
             "The Twolegs here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
             "Carelessly, r_c is seen by Twolegs, and taken from c_n.",
             null

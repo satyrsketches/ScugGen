@@ -332,8 +332,8 @@
         "biome": "beach",
         "season": "Any",
         "tags": ["hunting", "gone", "medium_prey0", "large_prey1"],
-        "intro_text": "Your patrol encounters a sandy beach where a lot of Twolegs linger.",
-        "decline_text": "Your patrol decides to hunt elsewhere.",
+        "intro_text": "Your patrol encounters a sandy beach where a lot of Scavengers linger.",
+        "decline_text": "Your patrol decides to hunt elsewhere, no way they're hunting here!",
         "chance_of_success": 10,
         "exp": 20,
         "success_text": [
@@ -360,22 +360,22 @@
         "biome": "beach",
         "season": "Any",
         "tags": ["hunting", "multi_gone", "small_prey0", "small_prey1"],
-        "intro_text": "Your patrol encounters a sandy beach where a lot of Twolegs linger.",
-        "decline_text": "Your patrol decides to hunt elsewhere.",
+        "intro_text": "Your patrol encounters a sandy beach where a lot of Scavengers linger.",
+        "decline_text": "Your patrol decides to hunt elsewhere, no way they're hunting here!",
         "chance_of_success": 10,
         "exp": 20,
         "success_text": [
             "They continue hunting undetected.",
-            "Slyly, r_c uses the chance to get food, practicing {PRONOUN/r_c/poss} best kittypet impression until just the right moment, before darting forward and making off with a sandwich in {PRONOUN/r_c/poss} mouth.",
-            "s_c spots the Twolegs unloading metal boxes from their monsters, and abruptly tells the patrol to leave. Now.",
-            "A Twoleg spots s_c and crouches down, clicking softly. s_c hisses and flees."
+            "Slyly, r_c uses the chance to get food, practicing {PRONOUN/r_c/poss} best scavenger pup impression until just the right moment, before darting forward and making off with blobs of slime mold in {PRONOUN/r_c/poss} mouth.",
+            "s_c spots the scavengers unloading explosive spears from their stashes, and abruptly tells the patrol to run for their lives.",
+             "A scavenger spots s_c and crouches down, pawing at the ground. s_c hisses and flees."
         ],
         "fail_text": [
             null,
             null,
-            "The patrol mostly ignores the Twolegs. But as they hunt, the cats encounter appealing, delicious smelling mush in little burrows. Some of the patrol investigates, and doors slam down behind them. There's nothing they or the rest of the patrol can do to get them out - eventually the Twolegs notice, and the trapped cats are taken.",
+            "The patrol mostly ignores the scavengers. But as they hunt, the slugcats encounter appealing, delicious smelling mush in small holes and gaps. Some of the patrol investigates, and spears slam down behind them, blocking the slugcats inside. There's nothing they or the rest of the patrol can do to get them out - eventually the scavengers notice, and the trapped slugcats are taken.",
             null,
-            "A Twoleg spots s_c and crouches down, clicking softly. s_c pauses - are they hurt? Do they want to make friends? {PRONOUN/s_c/subject/CAP} {VERB/s_c/wander/wanders} closer, drawing more of the patrol in with {PRONOUN/s_c/object}. Before they can decide whether to step away, there's a swoosh, and a net falls around the cats. They fight desperately, but the Twolegs take them away in the monster."
+            "A scavenger spots s_c and crouches down, pawing at the ground. s_c pauses - are they hurt? Do they want to make friends? {PRONOUN/s_c/subject/CAP} {VERB/s_c/wander/wanders} closer, drawing more of the patrol in with {PRONOUN/s_c/object}. Before they can decide whether to step away, there's a spark, and a beehive detonates around the slugcats. They fight desperately, but the scavengers take them away."
         ],
         "win_skills": ["extremely smart"],
         "win_trait": ["ambitious", "bloodthirsty", "cold", "fierce", "shameless", "strict", "troublesome", "vengeful"],
@@ -388,21 +388,21 @@
         "biome": "beach",
         "season": "Any",
         "tags": ["hunting", "gone", "warrior", "injury", "blood loss", "scrapes", "medium_prey0", "large_prey3"],
-        "intro_text": "r_c decides to hunt out near the Twoleg dens.",
+        "intro_text": "r_c decides to hunt out near the scavenger toll.",
         "decline_text": "On second thought, {PRONOUN/r_c/subject} {VERB/r_c/decide/decides} to reline {PRONOUN/r_c/poss} nest today instead.",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": [
-            "{PRONOUN/r_c/subject/CAP}{VERB/r_c/'re/'s} interrupted by Twolegs wandering through the woods a couple times, but it's a successful hunt.",
-            "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for r_c. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'ve/'s} always wondered what it might taste like... dry, is the answer. Very odd.",
-            "s_c gets distracted from hunting by strange Twoleg activity around one of their dens. They appear to be hauling all their many, many varieties of nest lining out and into a big monster. s_c take the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the nursery.",
-            "Calmly, s_c weaves around the Twoleg dens, picking out the mice from the tunnels and the birds off the strange metal hanging fruit. A successful, sneaky hunt."
+            "{PRONOUN/r_c/subject/CAP}{VERB/r_c/'re/'s} interrupted by scavengers wandering through the water a couple times, but it's a successful hunt.",
+            "A friendly scavenger circles their arm, and drops a spear on the ground for r_c. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'ve/'s} always wondered why some scavengers are friendly... Very odd.",
+            "s_c gets distracted from hunting by strange scavenger activity around the toll. They appear to be hauling all their many, many varieties of tools, props and food out and into a storage crate made with spears. s_c takes the opportunity to grab a little soft thing, something that's almost shaped like prey. It'll be good for the slugpups.",
+            "Calmly, s_c weaves around the scavenger toll, picking out the lantern mice from the tunnels and the batflies off the strange hanging pearls. A successful, sneaky hunt."
         ],
         "fail_text": [
             null,
-            "The Twolegs here are friendly, and a little carelessly, s_c goes to hunt in their garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
-            "Carelessly, r_c is seen by Twolegs, and taken from c_n.",
-            "Carelessly, r_c is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, {PRONOUN/r_c/subject} {VERB/r_c/discover/discovers} that a broken window is just wide enough to push {PRONOUN/r_c/self} out to safety through, but the glass leaves {PRONOUN/r_c/object} bleeding as {PRONOUN/r_c/subject} {VERB/r_c/run/runs} back to c_n."
+            "The scavengers here are friendly, and a little carelessly, s_c goes to hunt in their toll. But there's a new thing there, a beehive, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
+            "Carelessly, r_c is seen by scavengers, and taken from c_n.",
+            "Carelessly, r_c is seen by scavengers, and is taken hissing and spitting to be locked in a spear cage. Overnight, {PRONOUN/r_c/subject} {VERB/r_c/discover/discovers} that a small gap is just wide enough to push {PRONOUN/r_c/self} out to safety through, but the pointed spears leaves {PRONOUN/r_c/object} bleeding as {PRONOUN/r_c/subject} {VERB/r_c/run/runs} back to c_n."
         ],
         "win_skills": ["smart", "very smart", "extremely smart"],
         "win_trait": [ "calm", "careful", "insecure", "lonesome", "loyal", "nervous", "sneaky", "strange"],
@@ -415,19 +415,19 @@
         "biome": "beach",
         "season": "Any",
         "tags": ["app_stat", "hunting", "gone", "apprentice", "injury", "blood loss", "scrapes", "small_prey0", "medium_prey3"],
-        "intro_text": "app1 decides to hunt out near the Twoleg dens.",
+        "intro_text": "app1 decides to hunt out near the scavenger toll.",
         "decline_text": "On second thought, {PRONOUN/app1/subject} {VERB/r_c/decide/decides} to reline {PRONOUN/app1/poss} nest today instead.",
         "chance_of_success": 40,
         "exp": 20,
         "success_text": [
-            "{PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} interrupted by Twolegs wandering through the woods a couple times, so {PRONOUN/app1/subject} {VERB/app1/miss/misses} a couple catches, but overall it works out.",
-            "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app1. {PRONOUN/app1/subject/CAP}{VERB/app1/'ve/'s} always wondered what it might taste like... dry, is the answer. It's strangely appealing.",
+            "{PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} interrupted by scavengers wandering through the water a couple times, so {PRONOUN/app1/subject} {VERB/app1/miss/misses} a couple catches, but overall it works out.",
+            "A friendly scavenger circles their arm, and drops a spear on the ground for app1. {PRONOUN/app1/subject/CAP}{VERB/app1/'ve/'s} always wondered why some scavengers are friendly... It's strangely appealing.",
             null,
-            "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with {PRONOUN/app1/poss} belly low to the ground. A successful, sneaky hunt."
+            "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling on the ground with {PRONOUN/app1/poss} belly low to the ground. A successful, sneaky hunt."
         ],
         "fail_text": [
             null,
-            "A little carelessly, s_c jumps a fence to hunt in a den's garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
+            "A little carelessly, s_c jumps a stake to hunt in a toll. But there's a new thing there, a beehive, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
             "Carelessly, app1 is seen by Twolegs, and taken from c_n.",
             "Carelessly, app1 is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, {PRONOUN/app1/subject} {VERB/app1/discover/discovers} that a broken window is just wide enough to push {PRONOUN/app1/self} out to safety through, but the glass leaves {PRONOUN/app1/object} bleeding as {PRONOUN/app1/subject} {VERB/app1/run/runs} back to c_n."
         ],

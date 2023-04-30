@@ -14,7 +14,7 @@
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "death_text": "m_c was grabbed and dropped by an vulture, losing a life.",
+        "death_text": "m_c was grabbed and dropped by a vulture, losing a life.",
         "history_text": {
             "lead_death": "were grabbed by an vulture"
         },
@@ -26,9 +26,9 @@
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf"],
-        "death_text": "m_c lost a life after being swept away by a flood.",
+        "death_text": "m_c lost a life after being swept away by the rain.",
         "history_text": {
-            "lead_death": "were swept away by a flood"
+            "lead_death": "were swept away by the rain"
         },
         "cat_trait": null,
         "cat_skill": null,
@@ -38,9 +38,9 @@
     {
         "camp": "any",
         "tags": ["Newleaf", "Greenleaf", "Leaf-fall", "Leaf-bare"],
-        "death_text": "m_c lost a life when they fell from the top branches of a tree.",
+        "death_text": "m_c lost a life when they fell from the top of a tall pole.",
         "history_text": {
-            "lead_death": "fell from a tall tree"
+            "lead_death": "fell from a tall pole"
         },
         "cat_trait": null,
         "cat_skill": null,
@@ -89,9 +89,9 @@
     {
         "camp": "any",
         "tags": ["all_lives", "Newleaf", "Greenleaf", "Leaf-fall", "no_body"],
-        "death_text": "m_c fell into a river and was swept away by the current, never to be seen again.",
+        "death_text": "m_c got lost and was swept away by the rain, never to be seen again.",
         "history_text": {
-            "lead_death": "were swept away by the river"
+            "lead_death": "were swept away by the rain"
         },
         "cat_trait": null,
         "cat_skill": null,

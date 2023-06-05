@@ -475,20 +475,20 @@
         "biome": "beach",
         "season": "Any",
         "tags": ["app_stat", "hunting", "gone", "apprentice", "romantic", "platonic", "two_apprentices", "medium_prey0"],
-        "intro_text": "Boldly, eyes daring app1 to say no, app2 suggests hunting by the Twoleg dens. Where apprentices are definitely not allowed.",
+        "intro_text": "Boldly, eyes daring app1 to say no, app2 suggests hunting by the scavenger toll. Where apprentices are definitely not allowed.",
         "decline_text": "On second thought, they decide to reline their nests today instead.",
         "chance_of_success": 30,
         "exp": 20,
         "success_text": [
-            "They're interrupted by Twolegs wandering through the woods a couple times, so they miss a couple catches, but overall it works out.",
-            "A friendly Twolegs makes a psspsspss noise, and pours kittypet food on the ground for app2. {PRONOUN/app2/subject/CAP} {VERB/app2/fetch/fetches} app1, and both apprentices loudly proclaim how much better fresh-kill is, but both are wide-eyed and thrilled by the experience.",
+            "They're interrupted by scavengers wandering through the water a couple times, so they miss a couple catches, but overall it works out.",
+            "A friendly scavenger curiously examines the slugcats, and drops a spear on the ground for app2. {PRONOUN/app2/subject/CAP} {VERB/app2/fetch/fetches} app1, and both apprentices loudly proclaim how much better their own spears are, but both are wide-eyed and thrilled by the experience.",
             null,
-            "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gardens with {PRONOUN/app1/poss} belly low to the ground. app2 tries to be even sneakier, and so app1 ups {PRONOUN/app1/poss} game, until they two are probably the most obvious pair of cats in the neighborhood."
+            "Tail lashing excitedly, app1 hunts in the strange, forbidden land, ducking around corners and crawling over gaps with {PRONOUN/app1/poss} belly low to the ground. app2 tries to be even sneakier, and so app1 ups {PRONOUN/app1/poss} game, until they two are probably the most obvious pair of slugcats in the neighborhood."
         ],
         "fail_text": [
-            "Carelessly, app2 is seen by Twolegs, and is taken hissing and spitting to be locked in a monster's den. Overnight, {PRONOUN/app2/subject} {VERB/app2/hear/hears} app1 yowling from outside, and the two cats manage to craft an escape plan through a broken window. Shivering, app2 presses {PRONOUN/app2/poss} pelt against app1 as they pad home.",
-            "A little carelessly, s_c jumps a fence to hunt in a den's garden. But there's a new thing there, a box, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
-            "Carelessly, app1 is seen by Twolegs, and taken from c_n.",
+            "Carelessly, app2 is seen by scavengers, and is taken hissing and spitting to be locked in a spear cage. Overnight, {PRONOUN/app2/subject} {VERB/app2/hear/hears} app1 yowling from outside, and the two slugcats manage to craft an escape plan through a broken gap. Shivering, app2 presses {PRONOUN/app2/poss} pelt against app1 as they pad home.",
+            "A little carelessly, s_c jumps a pole to hunt in the toll. But there's a new thing there, a beehive, suspicious and strange. Wisely, s_c avoids it, and returns to c_n territory.",
+            "Carelessly, app1 is seen by scavengers, and taken from c_n.",
             null
         ],
         "win_trait": ["calm", "careful", "insecure", "lonesome", "loyal", "nervous", "sneaky", "strange"],
@@ -506,15 +506,15 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": [
-            "Darting through quickly, {PRONOUN/r_c/subject} {VERB/r_c/see/sees} that the lovely smell is Twoleg mush, and {VERB/r_c/keep/keeps} running.",
-            "The lovely smell leads to Twoleg mush. Puzzled, r_c checks around {PRONOUN/r_c/object}, only for {PRONOUN/r_c/poss} fur to stand on end as {PRONOUN/r_c/subject} {VERB/r_c/realize/realizes} {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} standing in a metal tunnel, cloaked in rust and camouflage. It's to {PRONOUN/r_c/poss} great fortune that this trap seems to be broken, but whatever Twoleg restocked the bait might still be around. {PRONOUN/r_c/subject/CAP} {VERB/r_c/leave/leaves} quickly.",
-            "Something about this situation sets all of s_c's instincts off. {PRONOUN/s_c/subject/CAP} {VERB/s_c/investigate/investigates}, carefully, and {VERB/s_c/strip/strips} the cover of the sand away from a Twoleg trap underneath.",
+            "Darting through quickly, {PRONOUN/r_c/subject} {VERB/r_c/see/sees} that the lovely smell is batnip, and {VERB/r_c/keep/keeps} running.",
+            "The lovely smell leads to batnip. Puzzled, r_c checks around {PRONOUN/r_c/object}, only for {PRONOUN/r_c/poss} fur to stand on end as {PRONOUN/r_c/subject} {VERB/r_c/realize/realizes} {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} standing in a spear tunnel, cloaked in rust and camouflage. It's to {PRONOUN/r_c/poss} great fortune that this trap seems to be broken, but whatever scavenger restocked the bait might still be around. {PRONOUN/r_c/subject/CAP} {VERB/r_c/leave/leaves} quickly.",
+            "Something about this situation sets all of s_c's instincts off. {PRONOUN/s_c/subject/CAP} {VERB/s_c/investigate/investigates}, carefully, and {VERB/s_c/strip/strips} the cover of the sand away from a scavenger trap underneath.",
             "Something isn't right. Nervously pawing at the sand, s_c thinks that the smell is too good to be true. {PRONOUN/s_c/subject/CAP} {VERB/s_c/leave/leaves} it, deciding to return to camp and report it to the deputy instead."
         ],
         "fail_text": [
             null,
-            "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into a metal wall. Inside the trap, a young fox starts up a distressed wail, and s_c feels sympathy {PRONOUN/s_c/subject} never expected to feel for a fox, as well as the heart-stopping realization that it could easily have been {PRONOUN/s_c/object}.",
-            "r_c is caught in a trap hidden in the sand and is taken by Twolegs shortly after."
+            "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into some spears. Inside the trap, a young cyan lizard starts up a distressed wail, and s_c feels sympathy {PRONOUN/s_c/subject} never expected to feel for a cyan lizard, as well as the heart-stopping realization that it could easily have been {PRONOUN/s_c/object}.",
+            "r_c is caught in a trap hidden in the sand and is taken by scavengers shortly after."
         ],
         "win_skills": ["smart", "very smart", "extremely smart"],
         "win_trait": ["calm", "careful", "insecure", "lonesome", "loyal", "nervous", "sneaky", "strange"],
@@ -532,15 +532,15 @@
         "chance_of_success": 40,
         "exp": 20,
         "success_text": [
-            "Darting through quickly, r_c sees that the lovely smell is Twoleg mush, and keeps running.",
-            "The lovely smell leads to Twoleg mush. Puzzled, r_c checks around {PRPONOUN/r_c/object}, only for {PRONOUN/r_c/poss} fur to stand on end as {PRONOUN/r_c/subject} {VERB/r_c/realize/realizes} {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} standing in a metal tunnel, cloaked in rust and camouflage. It's to {PRONOUN/r_c/poss} great fortune that this trap seems to be broken, but whatever Twoleg restocked the bait might still be around. {PRONOUN/r_c/subject/CAP} {VERB/r_c/leave/leaves} quickly.",
-            "Something about this situation sets all of s_c's instincts off. {PRONOUN/s_c/subject/CAP} {VERB/s_c/investigate/investigates}, carefully, and the patrol helps {PRONOUN/s_c/object} strip the cover of the sand away from a Twoleg trap underneath.",
+            "Darting through quickly, r_c sees that the lovely smell is batnip, and keeps running.",
+            "The lovely smell leads to batnip. Puzzled, r_c checks around {PRPONOUN/r_c/object}, only for {PRONOUN/r_c/poss} fur to stand on end as {PRONOUN/r_c/subject} {VERB/r_c/realize/realizes} {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} standing in a metal tunnel, cloaked in rust and camouflage. It's to {PRONOUN/r_c/poss} great fortune that this trap seems to be broken, but whatever scavenger restocked the bait might still be around. {PRONOUN/r_c/subject/CAP} {VERB/r_c/leave/leaves} quickly.",
+            "Something about this situation sets all of s_c's instincts off. {PRONOUN/s_c/subject/CAP} {VERB/s_c/investigate/investigates}, carefully, and the patrol helps {PRONOUN/s_c/object} strip the cover of the sand away from a scavenger trap underneath.",
             "Something isn't right. Nervously pawing at the sand, s_c thinks that the smell is too good to be true. {PRONOUN/s_c/subject/CAP} {VERB/s_c/leave/leaves} it, convincing the patrol to return to camp and report it to the deputy instead."
         ],
         "fail_text": [
             null,
-            "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into a metal wall. Inside the trap, a young fox starts up a distressed wail, and s_c feels sympathy {PRONOUN/s_c/subject} never expected to feel for a fox, as well as the heart-stopping realization that it could easily have been {PRONOUN/s_c/object}.",
-            "r_c is caught in a trap hidden in the sand! There's nothing the patrol is able to do to help {PRONOUN/r_c/object}, and r_c is taken by Twolegs shortly after."
+            "Easily swayed by the delicious smell, s_c wanders recklessly into the sheltered space, only to smack into some spears. Inside the trap, a young cyan lizard starts up a distressed wail, and s_c feels sympathy {PRONOUN/s_c/subject} never expected to feel for a cyan lizard, as well as the heart-stopping realization that it could easily have been {PRONOUN/s_c/object}.",
+            "r_c is caught in a trap hidden in the sand! There's nothing the patrol is able to do to help {PRONOUN/r_c/object}, and r_c is taken by scavengers shortly after."
         ],
         "win_skills": ["smart", "very smart", "extremely smart"],
         "win_trait": ["calm", "careful", "insecure", "lonesome", "loyal", "nervous", "sneaky", "strange"],
@@ -553,30 +553,30 @@
         "biome": "beach",
         "season": "Any",
         "tags": ["death", "scar", "MANLEG", "retirement", "blunt_force_injury", "hunting", "medium_prey"],
-        "intro_text": "The patrol comes across a Thunderpath running along the shore.",
+        "intro_text": "The patrol comes across a large expanse of water.",
         "decline_text": "The patrol decides it is better not to cross.",
         "chance_of_success": 40,
         "exp": 10,
         "success_text": [
-            "Your patrol crosses the Thunderpath and can hunt on the other side.",
-            "Your patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly damp paws, but a successful haul of prey.",
-            "Your patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
-            "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across calmly to hunt on the other side."
+            "Your patrol crosses the water with jetfish and can hunt on the other side.",
+            "Your patrol finds a pipe running under the water and uses it to cross. They end up with slightly damp paws, but a successful haul of prey.",
+            "Your patrol stops on the edge of the water, and s_c organizes a thorough search that finds a dead batfly. It's a reminder of the danger of the waters, and a good source of scavenged meat.",
+            "s_c is patient enough to wait until the water is completely clear, with no leviathans on sight, then trots across calmly to hunt on the other side."
         ],
         "fail_text": [
-            "r_c hears a monster thundering towards them, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
+            "r_c hears an eel lizard thundering towards them, but it screeches to a halt just in time, catching a jetfish instead. That was close! Maybe it's best to go back to camp.",
             null,
-            "r_c is hit by a monster while crossing and dies instantly.",
-            "r_c is hit by a monster and seems quite injured, but miraculously still alive."
+            "r_c is too unaware, and the very last thing they hear before drifting away is a metal-like sound, and the crunch of jaws..",
+            "r_c is bit by a salamander and seems quite injured, but miraculously still alive."
         ],
         "win_skills": ["smart", "very smart", "extremely smart"],
         "win_trait": ["calm", "careful", "insecure", "nervous", "sneaky", "strange", "patient", "responsible", "thoughtful", "wise"],
         "min_cats": 1,
         "max_cats": 6,
         "history_text": {
-        "scar": "r_c was heavily injured by a monster, and carries the scars from it.",
-        "reg_death": "r_c was hit by a monster and killed.",
-        "lead_death": "{VERB/r_c/were/was} hit by a monster"
+        "scar": "r_c was heavily injured by a salamander, and carries the scars from it.",
+        "reg_death": "r_c was killed by a leviathan.",
+        "lead_death": "{VERB/r_c/were/was} killed by a leviathan"
     }
     },
     {
@@ -584,21 +584,21 @@
         "biome": "beach",
         "season": "Any",
         "tags": ["death", "scar", "MANLEG", "retirement", "blunt_force_injury", "hunting", "cruel_season", "medium_prey"],
-        "intro_text": "The patrol comes across a Thunderpath running along the shore.",
+        "intro_text": "The patrol comes across a large expanse of water.",
         "decline_text": "The patrol decides it is better not to cross.",
         "chance_of_success": 40,
         "exp": 10,
         "success_text": [
-            "Your patrol crosses the Thunderpath and can hunt on the other side.",
-            "Your patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly damp paws, but a successful haul of prey.",
-            "Your patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
+            "Your patrol crosses the water, swimming, and can hunt on the other side.",
+            "Your patrol finds a pipe running under the water and uses it to cross. They end up with slightly damp paws, but a successful haul of prey.",
+            "Your patrol stops on the edge of the water, and s_c organizes a thorough search that finds a dead batfly. It's a reminder of the danger of the waters, and a good source of scavenged meat.",
             "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across calmly to hunt on the other side."
         ],
         "fail_text": [
-            "r_c hears a monster thundering towards them, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
+            "r_c hears an eel lizard thundering towards them, but it screeches to a halt just in time, catching a jetfish instead. That was close! Maybe it's best to go back to camp.",
             null,
-            "r_c is crossing the Thunderpath and hears a monster thundering towards {PRONOUN/r_c/object}. {PRONOUN/r_c/subject/CAP} {VERB/r_c/freeze/freezes}, and the monster swerves to hit {PRONOUN/r_c/object} deliberately, killing them instantly.",
-            "r_c is hit by a monster and seems quite injured, but miraculously still alive."
+            "r_c is crossing the water, unwarily, {PRONOUN/r_c/object}. {PRONOUN/r_c/subject/CAP} {VERB/r_c/freeze/freezes}, and a leviathan swerves to bite {PRONOUN/r_c/object} deliberately, killing them instantly.",
+            "r_c is bit by a salamander and seems quite injured, but miraculously still alive."
         ],
         "win_skills": ["smart", "very smart", "extremely smart"
         ],
@@ -606,9 +606,9 @@
         "min_cats": 1,
         "max_cats": 6,
         "history_text": {
-        "scar": "r_c was heavily injured by a monster, and carries the scars from it.",
-        "reg_death": "r_c was hit by a monster and killed.",
-        "lead_death": "{VERB/r_c/were/was} hit by a monster"
+        "scar": "r_c was heavily injured by a salamander, and carries the scars from it.",
+        "reg_death": "r_c was bit by a leviathan and killed.",
+        "lead_death": "{VERB/r_c/were/was} bit by a leviathan"
     }
     },
     {
@@ -616,21 +616,21 @@
         "biome": "beach",
         "season": "Any",
         "tags": ["multi_deaths", "scar", "MANLEG", "retirement", "blunt_force_injury", "hunting", "large_prey"],
-        "intro_text": "The patrol comes across a Thunderpath running along the shore.",
+        "intro_text": "The patrol comes across a large expanse of water.",
         "decline_text": "The patrol decides it is better not to cross.",
         "chance_of_success": 40,
         "exp": 10,
         "success_text": [
-            "Your patrol crosses the Thunderpath and can hunt on the other side.",
-            "Your patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly damp paws, but a successful haul of lots of prey.",
-            "Your patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds several flattened pieces of roadkill. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
-            "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across calmly with the patrol to hunt on the other side."
+            "Your patrol crosses the water, with jetfish, and can hunt on the other side.",
+            "Your patrol finds a pipe running under the water and uses it to cross. They end up with slightly damp paws, but a successful haul of lots of prey.",
+            "Your patrol stops on the edge of the water, and s_c organizes a thorough search that finds several dead batflies. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
+            "s_c is patient enough to wait until the water is completely clear, then swims across calmly with the patrol to hunt on the other side."
         ],
         "fail_text": [
             null,
             null,
-            "As the group crosses the Thunderpath, a speeding monster appears out of nowhere. The cats run panicked in all directions, and several of them get hit and die.",
-            "r_c is hit by a monster and seems quite injured, but miraculously still alive."
+            "As the group crosses the waters, a speeding leviathan appears out of nowhere. The slugcats swim around panicked in all directions, and several of them get bitten and die.",
+            "r_c is bit by a salamander and seems quite injured, but miraculously still alive."
         ],
         "win_skills": ["smart", "very smart", "extremely smart"],
         "win_trait": ["calm", "careful", "insecure", "nervous", "sneaky", "strange", "patient", "responsible", "thoughtful", "wise"],
